@@ -17,9 +17,9 @@
 
 #### My projects:
 
-:snowflake: [Fast Food](https://github.com/kuzmyhub/job4j_fast_food) Web application built on a microservice architecture. Provides an opportunity to order, deliver and pay for dishes from a fast food restaurant.
-
 :snowflake: [URL shortcut](https://github.com/kuzmyhub/job4j_URL_short_cut) - RESTfull service. Converts URLs to a shortened, human-readable format.
+
+:snowflake: [Fast Food](https://github.com/kuzmyhub/job4j_fast_food) Web application built on a microservice architecture. Provides an opportunity to order, deliver and pay for dishes from a fast food restaurant.
 
 :snowflake: [Car Shop](https://github.com/kuzmyhub/job4j_cars) - Web-application for the purchase and sale of used cars.
 
