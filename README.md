@@ -27,8 +27,6 @@
 
 :snowflake: [Cinema](https://github.com/kuzmyhub/job4j_cinema) - Web application. Provides an opportunity to view sessions and buy tickets on the cinema's website.
 
-:snowflake: [Job Aggregator](https://github.com/kuzmyhub/job4j_grabber) - Parses current vacancies from the specified resource.
-
 
 <!--
 **kuzmyhub/kuzmyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
